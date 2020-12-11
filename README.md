@@ -6,7 +6,7 @@ This is a basic example of how to get weather data from OpenWeatherMap.org and d
 
 ## How to use it ?
 
-**educ8s.tv** explained the code and showed how to use it in this video https://www.youtube.com/watch?v=C2LBqUB7g3g.
+**educ8s.tv** explained the code and showed how to use it in [this video](https://www.youtube.com/watch?v=C2LBqUB7g3g).
 
 ## Materials Used
 - Any ESP8266 board ( I used NodeMCU ESP8266)
